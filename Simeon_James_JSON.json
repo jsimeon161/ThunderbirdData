@@ -1,11 +1,11 @@
 {
-    "firstName": "Bob",
-    "lastName": "TheBuilder",
-    "preferredName": "SuperBob",
-    "email": "Superbob4u@superhero.net",
-    "phoneNumber": " ",
-    "city": "Washington",
-    "state": "IN",
-    "favoriteHobby": "Building",
-    "seatLocation": " "
+    "firstName": "James",
+    "lastName": "Simeon",
+    "preferredName": "Jimmy",
+    "email": "jamessimeon@lewisu.edu",
+    "phoneNumber": "217-299-5000",
+    "city": "Springfield",
+    "state": "IL",
+    "favoriteHobby": "Basketball",
+    "seatLocation": "17"
 }
