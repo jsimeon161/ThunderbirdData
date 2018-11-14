@@ -1,4 +1,5 @@
-"firstName": "Bob",
+{
+    "firstName": "Bob",
     "lastName": "TheBuilder",
     "preferredName": "SuperBob",
     "email": "Superbob4u@superhero.net",
@@ -7,3 +8,4 @@
     "state": "IN",
     "favoriteHobby": "Building",
     "seatLocation": " "
+}
